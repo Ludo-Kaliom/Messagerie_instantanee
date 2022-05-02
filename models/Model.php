@@ -1,7 +1,7 @@
 <?php
 class Model {
 
-    private $host = 'localhost';
+    private $host = '';
     private $dbname = '';
     private $username = '';
     private $password = '';
